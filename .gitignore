@@ -1,0 +1,15 @@
+*.iml
+/resources/discount_coupons_rules.xls
+/.idea/
+dependency-reduced-pom.xml
+/target/
+/bin/
+/out/
+/output/
+/log/
+/.settings
+/.project
+/.classpath
+log
+log/com.mmt.application.log
+log/com.mmt.metrics.log
